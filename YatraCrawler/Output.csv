@@ -1,80 +1,163 @@
 CarModel,EngineDisplacement,Transmission,FuelType,ImgUrl,MPG,UserEco
- 2005 Toyota Prius  1.5 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Prius.JPG" alt="2005 Toyota Prius" />,46,47.6
- 2005 Toyota Echo  1.5 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Echo.jpg" alt="2005 Toyota Echo" />,33,43.1
- 2005 Toyota Corolla  1.8 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg" alt="2005 Toyota Corolla" />,31,35.2
- 2005 Toyota Echo  1.5 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Echo.jpg" alt="2005 Toyota Echo" />,31,31.7
- 2005 Toyota Corolla  1.8 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg" alt="2005 Toyota Corolla" />,29,31.0
- 2005 Toyota Matrix  1.8 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix" />,29,31.9
- 2005 Toyota Celica  1.8 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" />,28,NA
- 2005 Toyota Matrix  1.8 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix" />,27,29.2
- 2005 Toyota Celica  1.8 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" />,26,NA
- 2005 Toyota MR2  1.8 L, 4 cyl, Manual 6-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_MR2_Spyder.JPG" alt="2005 Toyota MR2" />,26,NA
- 2005 Toyota MR2  1.8 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_MR2_Spyder.JPG" alt="2005 Toyota MR2" />,25,NA
- 2005 Toyota Corolla  1.8 L, 4 cyl, Manual 6-spd, Premium Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg" alt="2005 Toyota Corolla" />,25,31.7
- 2005 Toyota Matrix  1.8 L, 4 cyl, Manual 6-spd, Premium Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix" />,25,31.0
- 2005 Toyota Matrix AWD  1.8 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix AWD" />,25,24.8
- 2005 Toyota Camry  2.4 L, 4 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" />,25,26.6
- 2005 Toyota Celica  1.8 L, 4 cyl, Manual 6-spd, Premium Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" />,25,NA
- 2005 Toyota Celica  1.8 L, 4 cyl, Automatic (S4), Premium Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" />,24,NA
- 2005 Toyota Camry  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" />,24,NA
- 2005 Toyota Camry Solara  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg" alt="2005 Toyota Camry Solara" />,24,NA
- 2005 Toyota Camry Solara  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg" alt="2005 Toyota Camry Solara" />,24,NA
- 2005 Toyota RAV4 2WD  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 2WD" />,23,26.6
- 2005 Toyota RAV4 2WD  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 2WD" />,23,28.2
- 2005 Toyota RAV4 4WD  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 4WD" />,22,22.4
- 2005 Toyota Avalon  3.5 L, 6 cyl, Automatic (S5), Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Avalon.jpg" alt="2005 Toyota Avalon" />,22,21.9
- 2005 Toyota Highlander 2WD  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 2WD" />,22,22.6
- 2005 Toyota RAV4 4WD  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 4WD" />,21,26.6
- 2005 Toyota Highlander 4WD  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 4WD" />,21,NA
- 2005 Toyota Camry  3.3 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" />,21,23.1
- 2005 Toyota Camry Solara  3.3 L, 6 cyl, Automatic (S5), Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg" alt="2005 Toyota Camry Solara" />,21,24.0
- 2005 Toyota Camry  3.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" />,21,25.9
- 2005 Toyota Camry Solara Convertible  3.3 L, 6 cyl, Automatic (S5), Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Conv.JPG" alt="2005 Toyota Camry Solara Convertible" />,21,25.9
- 2005 Toyota Tacoma 2WD  2.7 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" />,21,23.4
- 2005 Toyota Tacoma 2WD  2.7 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" />,20,25.9
- 2005 Toyota Sienna 2WD  3.3 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sienna.jpg" alt="2005 Toyota Sienna 2WD" />,19,20.4
- 2005 Toyota Highlander 2WD  3.3 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 2WD" />,19,20.9
- 2005 Toyota Highlander 4WD  3.3 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 4WD" />,19,19.0
- 2005 Toyota Tacoma 4WD  2.7 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 4WD" />,18,24.1
- 2005 Toyota Sienna 4WD  3.3 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sienna.jpg" alt="2005 Toyota Sienna 4WD" />,18,17.4
- 2005 Toyota Tacoma 2WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" />,18,19.2
- 2005 Toyota 4Runner 2WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 2WD" />,18,18.3
- 2005 Toyota Tundra 2WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 2WD" />,18,19.2
- 2005 Toyota Tacoma 4WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 4WD" />,17,18.5
- 2005 Toyota 4Runner 4WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 4WD" />,17,19.4
- 2005 Toyota 4Runner 2WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 2WD" />,16,NA
- 2005 Toyota Tacoma 2WD  4.0 L, 6 cyl, Manual 6-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" />,16,NA
- 2005 Toyota Tundra 2WD  4.0 L, 6 cyl, Manual 6-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 2WD" />,16,NA
- 2005 Toyota 4Runner 4WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 4WD" />,16,17.8
- 2005 Toyota Tacoma 4WD  4.0 L, 6 cyl, Manual 6-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 4WD" />,16,17.1
- 2005 Toyota Sequoia 2WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sequoia.jpg" alt="2005 Toyota Sequoia 2WD" />,15,NA
- 2005 Toyota Tundra 2WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 2WD" />,15,16.4
- 2005 Toyota Tundra 4WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 4WD" />,15,16.1
- 2005 Toyota Sequoia 4WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sequoia.jpg" alt="2005 Toyota Sequoia 4WD" />,15,15.6
- 2005 Toyota Land Cruiser Wagon 4WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Land_Cruiser.JPG" alt="2005 Toyota Land Cruiser Wagon 4WD" />,13,NA
- 2005 Suzuki Swift  1.6 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift" />,27,NA
- 2005 Suzuki Swift x  1.6 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift x" />,27,NA
- 2005 Suzuki Swift  1.6 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift" />,26,NA
- 2005 Suzuki Swift x  1.6 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift x" />,26,NA
- 2005 Suzuki Aerio  2.3 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg" alt="2005 Suzuki Aerio" />,24,26.5
- 2005 Suzuki Aerio  2.3 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg" alt="2005 Suzuki Aerio" />,24,NA
- 2005 Suzuki Aerio SX  2.3 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg" alt="2005 Suzuki Aerio SX" />,24,24.8
- 2005 Suzuki Aerio SX  2.3 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg" alt="2005 Suzuki Aerio SX" />,24,NA
- 2005 Suzuki Aerio AWD  2.3 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg" alt="2005 Suzuki Aerio AWD" />,23,NA
- 2005 Suzuki Aerio SX AWD  2.3 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg" alt="2005 Suzuki Aerio SX AWD" />,23,21.9
- 2005 Suzuki Forenza  2.0 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza.jpg" alt="2005 Suzuki Forenza" />,22,21.7
- 2005 Suzuki Reno  2.0 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Reno.jpg" alt="2005 Suzuki Reno" />,22,23.9
- 2005 Suzuki Forenza  2.0 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza.jpg" alt="2005 Suzuki Forenza" />,22,NA
- 2005 Suzuki Reno  2.0 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Reno.jpg" alt="2005 Suzuki Reno" />,22,27.6
- 2005 Suzuki Forenza Wagon  2.0 L, 4 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza_Wagon.jpg" alt="2005 Suzuki Forenza Wagon" />,21,28.0
- 2005 Suzuki Forenza Wagon  2.0 L, 4 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza_Wagon.jpg" alt="2005 Suzuki Forenza Wagon" />,21,24.4
- 2005 Suzuki Verona  2.5 L, 6 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Verona.jpg" alt="2005 Suzuki Verona" />,21,20.4
- 2005 Suzuki Grand Vitara  2.5 L, 6 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara" />,18,NA
- 2005 Suzuki Grand Vitara  2.5 L, 6 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara" />,18,NA
- 2005 Suzuki Grand Vitara 4WD  2.5 L, 6 cyl, Automatic 4-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Grand_Vitara.jpg" alt="2005 Suzuki Grand Vitara 4WD" />,18,NA
- 2005 Suzuki Grand Vitara 4WD  2.5 L, 6 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Grand_Vitara.jpg" alt="2005 Suzuki Grand Vitara 4WD" />,18,NA
- 2005 Suzuki Grand Vitara XL7  2.7 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara XL7" />,18,NA
- 2005 Suzuki Grand Vitara XL7  2.7 L, 6 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara XL7" />,17,NA
- 2005 Suzuki Grand Vitara XL7 4WD  2.7 L, 6 cyl, Automatic 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_XL7.jpg" alt="2005 Suzuki Grand Vitara XL7 4WD" />,17,22.0
- 2005 Suzuki Grand Vitara XL7 4WD  2.7 L, 6 cyl, Manual 5-spd, Regular Gasoline,<img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_XL7.jpg" alt="2005 Suzuki Grand Vitara XL7 4WD" />,17,NA
+ 2005 Toyota Prius  1.5 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Prius.JPG,46,47.6
+ 2005 Toyota Echo  1.5 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Echo.jpg,33,43.1
+ 2005 Toyota Corolla  1.8 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg,31,35.2
+ 2005 Toyota Echo  1.5 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Echo.jpg,31,31.7
+ 2005 Toyota Corolla  1.8 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg,29,31.0
+ 2005 Toyota Matrix  1.8 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG,29,31.9
+ 2005 Toyota Celica  1.8 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg,28,NA
+ 2005 Toyota Matrix  1.8 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG,27,29.2
+ 2005 Toyota Celica  1.8 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg,26,NA
+ 2005 Toyota MR2  1.8 L, 4 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_MR2_Spyder.JPG,26,NA
+ 2005 Toyota MR2  1.8 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_MR2_Spyder.JPG,25,NA
+ 2005 Toyota Corolla  1.8 L, 4 cyl, Manual 6-spd, Premium Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg,25,31.7
+ 2005 Toyota Matrix  1.8 L, 4 cyl, Manual 6-spd, Premium Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG,25,31.0
+ 2005 Toyota Matrix AWD  1.8 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG,25,24.8
+ 2005 Toyota Camry  2.4 L, 4 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg,25,26.6
+ 2005 Toyota Celica  1.8 L, 4 cyl, Manual 6-spd, Premium Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg,25,NA
+ 2005 Toyota Celica  1.8 L, 4 cyl, Automatic (S4), Premium Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg,24,NA
+ 2005 Toyota Camry  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg,24,NA
+ 2005 Toyota Camry Solara  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg,24,NA
+ 2005 Toyota Camry Solara  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg,24,NA
+ 2005 Toyota RAV4 2WD  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg,23,26.6
+ 2005 Toyota RAV4 2WD  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg,23,28.2
+ 2005 Toyota RAV4 4WD  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg,22,22.4
+ 2005 Toyota Avalon  3.5 L, 6 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Avalon.jpg,22,21.9
+ 2005 Toyota Highlander 2WD  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG,22,22.6
+ 2005 Toyota RAV4 4WD  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg,21,26.6
+ 2005 Toyota Highlander 4WD  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG,21,NA
+ 2005 Toyota Camry  3.3 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg,21,23.1
+ 2005 Toyota Camry Solara  3.3 L, 6 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg,21,24.0
+ 2005 Toyota Camry  3.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg,21,25.9
+ 2005 Toyota Camry Solara Convertible  3.3 L, 6 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Conv.JPG,21,25.9
+ 2005 Toyota Tacoma 2WD  2.7 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg,21,23.4
+ 2005 Toyota Tacoma 2WD  2.7 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg,20,25.9
+ 2005 Toyota Sienna 2WD  3.3 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sienna.jpg,19,20.4
+ 2005 Toyota Highlander 2WD  3.3 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG,19,20.9
+ 2005 Toyota Highlander 4WD  3.3 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG,19,19.0
+ 2005 Toyota Tacoma 4WD  2.7 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg,18,24.1
+ 2005 Toyota Sienna 4WD  3.3 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sienna.jpg,18,17.4
+ 2005 Toyota Tacoma 2WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg,18,19.2
+ 2005 Toyota 4Runner 2WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG,18,18.3
+ 2005 Toyota Tundra 2WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg,18,19.2
+ 2005 Toyota Tacoma 4WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg,17,18.5
+ 2005 Toyota 4Runner 4WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG,17,19.4
+ 2005 Toyota 4Runner 2WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG,16,NA
+ 2005 Toyota Tacoma 2WD  4.0 L, 6 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg,16,NA
+ 2005 Toyota Tundra 2WD  4.0 L, 6 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg,16,NA
+ 2005 Toyota 4Runner 4WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG,16,17.8
+ 2005 Toyota Tacoma 4WD  4.0 L, 6 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg,16,17.1
+ 2005 Toyota Sequoia 2WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sequoia.jpg,15,NA
+ 2005 Toyota Tundra 2WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg,15,16.4
+ 2005 Toyota Tundra 4WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg,15,16.1
+ 2005 Toyota Sequoia 4WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sequoia.jpg,15,15.6
+ 2005 Toyota Land Cruiser Wagon 4WD  4.7 L, 8 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Toyota_Land_Cruiser.JPG,13,NA
+ 2005 Suzuki Swift  1.6 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/nophoto.gif,27,NA
+ 2005 Suzuki Swift x  1.6 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/nophoto.gif,27,NA
+ 2005 Suzuki Swift  1.6 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/nophoto.gif,26,NA
+ 2005 Suzuki Swift x  1.6 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/nophoto.gif,26,NA
+ 2005 Suzuki Aerio  2.3 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg,24,26.5
+ 2005 Suzuki Aerio  2.3 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg,24,NA
+ 2005 Suzuki Aerio SX  2.3 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg,24,24.8
+ 2005 Suzuki Aerio SX  2.3 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg,24,NA
+ 2005 Suzuki Aerio AWD  2.3 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg,23,NA
+ 2005 Suzuki Aerio SX AWD  2.3 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg,23,21.9
+ 2005 Suzuki Forenza  2.0 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza.jpg,22,21.7
+ 2005 Suzuki Reno  2.0 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Reno.jpg,22,23.9
+ 2005 Suzuki Forenza  2.0 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza.jpg,22,NA
+ 2005 Suzuki Reno  2.0 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Reno.jpg,22,27.6
+ 2005 Suzuki Forenza Wagon  2.0 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza_Wagon.jpg,21,28.0
+ 2005 Suzuki Forenza Wagon  2.0 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza_Wagon.jpg,21,24.4
+ 2005 Suzuki Verona  2.5 L, 6 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Verona.jpg,21,20.4
+ 2005 Suzuki Grand Vitara  2.5 L, 6 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg,18,NA
+ 2005 Suzuki Grand Vitara  2.5 L, 6 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg,18,NA
+ 2005 Suzuki Grand Vitara 4WD  2.5 L, 6 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Grand_Vitara.jpg,18,NA
+ 2005 Suzuki Grand Vitara 4WD  2.5 L, 6 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Grand_Vitara.jpg,18,NA
+ 2005 Suzuki Grand Vitara XL7  2.7 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg,18,NA
+ 2005 Suzuki Grand Vitara XL7  2.7 L, 6 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg,17,NA
+ 2005 Suzuki Grand Vitara XL7 4WD  2.7 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_XL7.jpg,17,22.0
+ 2005 Suzuki Grand Vitara XL7 4WD  2.7 L, 6 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2005_Suzuki_XL7.jpg,17,NA
+ 2010 Toyota Prius  1.8 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Prius.jpg,50,49.0
+ 2010 Toyota Camry Hybrid  2.4 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Camry_Hybrid.jpg,34,37.9
+ 2010 Toyota Yaris  1.5 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Yaris_hbk.jpg,32,36.6
+ 2010 Toyota Yaris  1.5 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Yaris_hbk.jpg,31,35.9
+ 2010 Toyota Corolla  1.8 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Corolla.jpg,30,37.1
+ 2010 Toyota Corolla  1.8 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Corolla.jpg,29,32.5
+ 2010 Toyota Matrix  1.8 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Matrix.jpg,28,33.5
+ 2010 Toyota Matrix  1.8 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Matrix.jpg,28,29.8
+ 2010 Toyota Highlander Hybrid 4WD  3.3 L, 6 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Highlander_Hybrid.jpg,26,24.6
+ 2010 Toyota Camry  2.5 L, 4 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Camry.jpg,26,NA
+ 2010 Toyota Camry  2.5 L, 4 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Camry.jpg,26,26.5
+ 2010 Toyota Corolla  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Corolla.jpg,25,NA
+ 2010 Toyota Corolla  2.4 L, 4 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Corolla.jpg,25,28.4
+ 2010 Toyota RAV4 2WD  2.5 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_RAV4.jpg,24,25.0
+ 2010 Toyota Matrix  2.4 L, 4 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Matrix.jpg,24,NA
+ 2010 Toyota Venza  2.7 L, 4 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Venza.jpg,24,23.9
+ 2010 Toyota Matrix  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Matrix.jpg,24,NA
+ 2010 Toyota RAV4 4WD  2.5 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_RAV4.jpg,24,25.0
+ 2010 Toyota Venza AWD  2.7 L, 4 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Venza.jpg,23,21.5
+ 2010 Toyota Avalon  3.5 L, 6 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Avalon.jpg,23,26.0
+ 2010 Toyota Camry  3.5 L, 6 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Camry.jpg,23,21.0
+ 2010 Toyota Highlander 2WD  2.7 L, 4 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Highlander.jpg,22,24.4
+ 2010 Toyota Matrix  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Matrix.jpg,22,NA
+ 2010 Toyota Tacoma 2WD  2.7 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tacoma.jpg,22,NA
+ 2010 Toyota RAV4 2WD  3.5 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_RAV4.jpg,22,21.0
+ 2010 Toyota Venza  3.5 L, 6 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Venza.jpg,22,23.9
+ 2010 Toyota RAV4 4WD  3.5 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_RAV4.jpg,21,21.5
+ 2010 Toyota Tacoma 2WD  2.7 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tacoma.jpg,21,22.7
+ 2010 Toyota Venza AWD  3.5 L, 6 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Venza.jpg,21,NA
+ 2010 Toyota Highlander 2WD  3.5 L, 6 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Highlander.jpg,20,22.5
+ 2010 Toyota 4Runner 2WD  2.7 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_4Runner.jpg,20,NA
+ 2010 Toyota 4Runner 2WD  4.0 L, 6 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_4Runner.jpg,19,17.0
+ 2010 Toyota Highlander 4WD  3.5 L, 6 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Highlander.jpg,19,19.2
+ 2010 Toyota Sienna 2WD  3.5 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Sienna.jpg,19,22.8
+ 2010 Toyota 4Runner 4WD  4.0 L, 6 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_4Runner.jpg,19,NA
+ 2010 Toyota 4Runner 4WD  4.0 L, 6 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_4Runner.jpg,19,19.0
+ 2010 Toyota FJ Cruiser 2WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_FJ_Cruiser.jpg,19,NA
+ 2010 Toyota Tacoma 4WD  2.7 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tacoma.jpg,19,23.5
+ 2010 Toyota FJ Cruiser 4WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_FJ_Cruiser.jpg,18,18.1
+ 2010 Toyota Tacoma 2WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tacoma.jpg,18,19.9
+ 2010 Toyota Sienna 4WD  3.5 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Sienna.jpg,18,15.8
+ 2010 Toyota Tacoma 4WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tacoma.jpg,18,18.6
+ 2010 Toyota Tundra 2WD  4.6 L, 8 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tundra.jpg,17,18.0
+ 2010 Toyota FJ Cruiser 4WD  4.0 L, 6 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_FJ_Cruiser.jpg,17,NA
+ 2010 Toyota Tundra 2WD  4.0 L, 6 cyl, Automatic (S5), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tundra.jpg,16,NA
+ 2010 Toyota Tacoma 2WD  4.0 L, 6 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tacoma.jpg,16,NA
+ 2010 Toyota Sequoia 2WD  4.6 L, 8 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Sequoia.jpg,16,NA
+ 2010 Toyota Tundra 4WD  4.6 L, 8 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tundra.jpg,16,15.6
+ 2010 Toyota Tundra 2WD  5.7 L, 8 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tundra.jpg,16,16.2
+ 2010 Toyota Sequoia 2WD  5.7 L, 8 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Sequoia.jpg,15,NA
+ 2010 Toyota Tacoma 4WD  4.0 L, 6 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tacoma.jpg,15,17.5
+ 2010 Toyota Land Cruiser Wagon 4WD  5.7 L, 8 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Land_Cruiser.jpg,15,NA
+ 2010 Toyota Sequoia 4WD  4.6 L, 8 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Sequoia.jpg,15,NA
+ 2010 Toyota Sequoia 4WD  5.7 L, 8 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Sequoia.jpg,15,15.3
+ 2010 Toyota Tundra 4WD FFV  5.7 L, 8 cyl, Automatic (S6), Regular Gasoline or E85,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tundra.jpg,15,NA
+ 2010 Toyota Sequoia 4WD FFV  5.7 L, 8 cyl, Automatic (S6), Regular Gasoline or E85,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Sequoia.jpg,14,NA
+ 2010 Toyota Tundra 4WD  5.7 L, 8 cyl, Automatic (S6), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Toyota_Tundra.jpg,14,15.5
+ 2010 Suzuki Swift x  1.6 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/nophoto.gif,30,NA
+ 2010 Suzuki SX4 Sedan  2.0 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/nophoto.gif,28,NA
+ 2010 Suzuki Swift x  1.6 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/nophoto.gif,26,28.2
+ 2010 Suzuki SX4 Sedan  2.0 L, 4 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/nophoto.gif,26,NA
+ 2010 Suzuki SX4 Sport  2.0 L, 4 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_SX4_Sport_hbk.jpg,26,NA
+ 2010 Suzuki Kizashi S  2.4 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Kizashi.jpg,26,27.9
+ 2010 Suzuki Kizashi  2.4 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Kizashi.jpg,26,29.1
+ 2010 Suzuki SX4  2.0 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2009_Suzuki_SX4.jpg,26,NA
+ 2010 Suzuki SX4 Sport  2.0 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_SX4_Sport_hbk.jpg,26,NA
+ 2010 Suzuki Kizashi S AWD  2.4 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Kizashi.jpg,25,27.0
+ 2010 Suzuki SX4 AWD  2.0 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2009_Suzuki_SX4.jpg,25,26.0
+ 2010 Suzuki SX4  2.0 L, 4 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2009_Suzuki_SX4.jpg,25,NA
+ 2010 Suzuki SX4 AWD  2.0 L, 4 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2009_Suzuki_SX4.jpg,25,31.6
+ 2010 Suzuki Kizashi AWD  2.4 L, 4 cyl, Automatic (variable gear ratios), Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Kizashi.jpg,25,33.1
+ 2010 Suzuki Kizashi S  2.4 L, 4 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Kizashi.jpg,25,NA
+ 2010 Suzuki Kizashi  2.4 L, 4 cyl, Manual 6-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Kizashi.jpg,24,NA
+ 2010 Suzuki Grand Vitara  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Grand_Vitara.jpg,22,NA
+ 2010 Suzuki Grand Vitara  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Grand_Vitara.jpg,21,NA
+ 2010 Suzuki Grand Vitara 4WD  2.4 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Grand_Vitara.jpg,21,NA
+ 2010 Suzuki Equator 2WD  2.5 L, 4 cyl, Manual 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Equator.jpg,21,NA
+ 2010 Suzuki Grand Vitara 4WD  2.4 L, 4 cyl, Automatic 4-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Grand_Vitara.jpg,20,19.7
+ 2010 Suzuki Grand Vitara  3.2 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Grand_Vitara.jpg,20,NA
+ 2010 Suzuki Grand Vitara 4WD  3.2 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Grand_Vitara.jpg,19,NA
+ 2010 Suzuki Equator 2WD  2.5 L, 4 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Equator.jpg,19,NA
+ 2010 Suzuki Equator 2WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Equator.jpg,17,NA
+ 2010 Suzuki Equator 4WD  4.0 L, 6 cyl, Automatic 5-spd, Regular Gasoline,http://www.fueleconomy.gov/feg/photos/2010_Suzuki_Equator.jpg,16,NA
 

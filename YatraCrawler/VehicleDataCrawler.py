@@ -8,12 +8,17 @@ import sys
 def main():
 
     urls = []
-    if len(sys.argv) > 2:
-        arg = 1
-        while arg < len(sys.argv):
-            url = "http://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year="+sys.argv[arg]+"&make="+sys.argv[arg+1]+"&pageno=1&sortBy=Comb&tabView=0&rowLimit=200"
-            urls.insert(arg-1, url)
-            arg+=2
+
+    urls.insert(1,"http://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year=2005&make=Toyota&pageno=1&sortBy=Comb&tabView=0&rowLimit=200");
+    urls.insert(2,"http://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year=2005&make=Suzuki&pageno=1&sortBy=Comb&tabView=0&rowLimit=200");
+    urls.insert(3,
+                "http://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year=2010&make=Toyota&pageno=1&sortBy=Comb&tabView=0&rowLimit=200");
+    urls.insert(4,
+                "http://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year=2010&make=Suzuki&pageno=1&sortBy=Comb&tabView=0&rowLimit=200");
+    #urls.insert(5,"http://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year=2015&make=Toyota&pageno=1&sortBy=Comb&tabView=0&rowLimit=200");
+    urls.insert(5,
+                "http://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year=2015&make=Suzuki&pageno=1&sortBy=Comb&tabView=0&rowLimit=200");
+    #urls.insert(3,"http://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year=2005&make=Honda&pageno=1&sortBy=Comb&tabView=0&rowLimit=200");
 
     tablehead = 'CarModel,EngineDisplacement,Transmission,FuelType,ImgUrl,MPG,UserEco\n'
     while len(urls) > 0:
@@ -48,7 +53,7 @@ def main():
                             break
 
                         usereco = row.find('td', attrs={'class': 'mpg-user'})
-                        tablehead = tablehead + ',' + str(imgurl)
+                        tablehead = tablehead + ',' + str(imgurl['src'])
                         tablehead = tablehead + ',' + str(fueleco.text)
                         tablehead = tablehead + ',' + str(usereco.text)
                         tablehead = tablehead + '\n'
@@ -57,6 +62,7 @@ def main():
     tablehead = tablehead + '\n'
     f = open('Output.csv','w')
     f.write(str(tablehead))
+    print tablehead
 pass
 
 if __name__ == '__main__':
