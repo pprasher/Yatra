@@ -14,545 +14,545 @@
 		<yatra:hasMilage rdf:datatype="&xsd;float">46</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic (variable gear ratios)</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Prius.JPG" alt="2005 Toyota Prius" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Prius.JPG" alt="2005 Toyota Prius" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile2">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Echo  1.5 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">33</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Echo.jpg" alt="2005 Toyota Echo" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Echo.jpg" alt="2005 Toyota Echo" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile3">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Corolla  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">31</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg" alt="2005 Toyota Corolla" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg" alt="2005 Toyota Corolla" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile4">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Echo  1.5 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">31</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Echo.jpg" alt="2005 Toyota Echo" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Echo.jpg" alt="2005 Toyota Echo" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile5">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Corolla  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">29</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg" alt="2005 Toyota Corolla" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg" alt="2005 Toyota Corolla" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile6">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Matrix  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">29</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile7">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Celica  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">28</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile8">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Matrix  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">27</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile9">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Celica  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">26</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile10">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota MR2  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">26</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 6-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_MR2_Spyder.JPG" alt="2005 Toyota MR2" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_MR2_Spyder.JPG" alt="2005 Toyota MR2" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile11">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota MR2  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">25</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_MR2_Spyder.JPG" alt="2005 Toyota MR2" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_MR2_Spyder.JPG" alt="2005 Toyota MR2" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile12">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Corolla  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">25</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Premium Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 6-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg" alt="2005 Toyota Corolla" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Corolla.jpg" alt="2005 Toyota Corolla" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile13">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Matrix  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">25</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Premium Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 6-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile14">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Matrix AWD  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">25</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix AWD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Matrix.JPG" alt="2005 Toyota Matrix AWD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile15">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Camry  2.4 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">25</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile16">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Celica  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">25</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Premium Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 6-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile17">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Celica  1.8 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">24</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Premium Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic (S4)</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Celica.jpg" alt="2005 Toyota Celica" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile18">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Camry  2.4 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">24</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile19">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Camry Solara  2.4 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">24</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg" alt="2005 Toyota Camry Solara" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg" alt="2005 Toyota Camry Solara" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile20">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Camry Solara  2.4 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">24</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg" alt="2005 Toyota Camry Solara" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg" alt="2005 Toyota Camry Solara" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile21">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota RAV4 2WD  2.4 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">23</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile22">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota RAV4 2WD  2.4 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">23</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile23">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota RAV4 4WD  2.4 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">22</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile24">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Avalon  3.5 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">22</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic (S5)</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Avalon.jpg" alt="2005 Toyota Avalon" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Avalon.jpg" alt="2005 Toyota Avalon" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile25">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Highlander 2WD  2.4 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">22</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile26">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota RAV4 4WD  2.4 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">21</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_RAV4.jpg" alt="2005 Toyota RAV4 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile27">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Highlander 4WD  2.4 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">21</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile28">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Camry  3.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">21</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile29">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Camry Solara  3.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">21</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic (S5)</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg" alt="2005 Toyota Camry Solara" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Coupe.jpg" alt="2005 Toyota Camry Solara" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile30">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Camry  3.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">21</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry.jpg" alt="2005 Toyota Camry" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile31">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Camry Solara Convertible  3.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">21</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic (S5)</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Conv.JPG" alt="2005 Toyota Camry Solara Convertible" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Camry_Solara_Conv.JPG" alt="2005 Toyota Camry Solara Convertible" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile32">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tacoma 2WD  2.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">21</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile33">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tacoma 2WD  2.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">20</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile34">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Sienna 2WD  3.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">19</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sienna.jpg" alt="2005 Toyota Sienna 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sienna.jpg" alt="2005 Toyota Sienna 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile35">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Highlander 2WD  3.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">19</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile36">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Highlander 4WD  3.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">19</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Highlander.JPG" alt="2005 Toyota Highlander 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile37">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tacoma 4WD  2.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">18</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile38">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Sienna 4WD  3.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">18</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sienna.jpg" alt="2005 Toyota Sienna 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sienna.jpg" alt="2005 Toyota Sienna 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile39">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tacoma 2WD  4.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">18</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile40">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota 4Runner 2WD  4.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">18</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile41">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tundra 2WD  4.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">18</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile42">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tacoma 4WD  4.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">17</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile43">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota 4Runner 4WD  4.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">17</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile44">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota 4Runner 2WD  4.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">16</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile45">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tacoma 2WD  4.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">16</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 6-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile46">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tundra 2WD  4.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">16</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 6-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile47">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota 4Runner 4WD  4.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">16</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_4Runner.JPG" alt="2005 Toyota 4Runner 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile48">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tacoma 4WD  4.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">16</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 6-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tacoma.jpg" alt="2005 Toyota Tacoma 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile49">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Sequoia 2WD  4.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">15</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sequoia.jpg" alt="2005 Toyota Sequoia 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sequoia.jpg" alt="2005 Toyota Sequoia 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile50">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tundra 2WD  4.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">15</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 2WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 2WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile51">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Tundra 4WD  4.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">15</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Tundra.jpg" alt="2005 Toyota Tundra 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile52">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Sequoia 4WD  4.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">15</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sequoia.jpg" alt="2005 Toyota Sequoia 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Sequoia.jpg" alt="2005 Toyota Sequoia 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile53">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Toyota Land Cruiser Wagon 4WD  4.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">13</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Land_Cruiser.JPG" alt="2005 Toyota Land Cruiser Wagon 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Toyota_Land_Cruiser.JPG" alt="2005 Toyota Land Cruiser Wagon 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile54">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Swift  1.6 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">27</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile55">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Swift x  1.6 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">27</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift x" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift x" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile56">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Swift  1.6 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">26</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile57">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Swift x  1.6 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">26</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift x" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/nophoto.gif" alt="2005 Suzuki Swift x" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile58">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Aerio  2.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">24</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg" alt="2005 Suzuki Aerio" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg" alt="2005 Suzuki Aerio" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile59">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Aerio  2.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">24</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg" alt="2005 Suzuki Aerio" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg" alt="2005 Suzuki Aerio" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile60">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Aerio SX  2.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">24</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg" alt="2005 Suzuki Aerio SX" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg" alt="2005 Suzuki Aerio SX" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile61">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Aerio SX  2.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">24</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg" alt="2005 Suzuki Aerio SX" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg" alt="2005 Suzuki Aerio SX" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile62">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Aerio AWD  2.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">23</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg" alt="2005 Suzuki Aerio AWD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Sedan.jpg" alt="2005 Suzuki Aerio AWD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile63">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Aerio SX AWD  2.3 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">23</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg" alt="2005 Suzuki Aerio SX AWD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Aerio_Wagon.jpg" alt="2005 Suzuki Aerio SX AWD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile64">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Forenza  2.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">22</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza.jpg" alt="2005 Suzuki Forenza" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza.jpg" alt="2005 Suzuki Forenza" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile65">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Reno  2.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">22</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Reno.jpg" alt="2005 Suzuki Reno" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Reno.jpg" alt="2005 Suzuki Reno" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile66">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Forenza  2.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">22</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza.jpg" alt="2005 Suzuki Forenza" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza.jpg" alt="2005 Suzuki Forenza" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile67">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Reno  2.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">22</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Reno.jpg" alt="2005 Suzuki Reno" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Reno.jpg" alt="2005 Suzuki Reno" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile68">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Forenza Wagon  2.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">21</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza_Wagon.jpg" alt="2005 Suzuki Forenza Wagon" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza_Wagon.jpg" alt="2005 Suzuki Forenza Wagon" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile69">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Forenza Wagon  2.0 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">21</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza_Wagon.jpg" alt="2005 Suzuki Forenza Wagon" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Forenza_Wagon.jpg" alt="2005 Suzuki Forenza Wagon" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile70">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Verona  2.5 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">21</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Verona.jpg" alt="2005 Suzuki Verona" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Verona.jpg" alt="2005 Suzuki Verona" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile71">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Grand Vitara  2.5 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">18</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile72">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Grand Vitara  2.5 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">18</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile73">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Grand Vitara 4WD  2.5 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">18</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 4-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Grand_Vitara.jpg" alt="2005 Suzuki Grand Vitara 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Grand_Vitara.jpg" alt="2005 Suzuki Grand Vitara 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile74">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Grand Vitara 4WD  2.5 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">18</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Grand_Vitara.jpg" alt="2005 Suzuki Grand Vitara 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_Grand_Vitara.jpg" alt="2005 Suzuki Grand Vitara 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile75">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Grand Vitara XL7  2.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">18</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara XL7" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara XL7" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile76">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Grand Vitara XL7  2.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">17</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara XL7" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2004_Suzuki_Vitara_V6.jpg" alt="2005 Suzuki Grand Vitara XL7" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile77">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Grand Vitara XL7 4WD  2.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">17</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Automatic 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_XL7.jpg" alt="2005 Suzuki Grand Vitara XL7 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_XL7.jpg" alt="2005 Suzuki Grand Vitara XL7 4WD" /></yatra:hasImage>
 	</rdf:Description>
 		<rdf:Description rdf:about="&yatra:automobile78">
 		<yatra:hasVehicle rdf:datatype="&xsd;string"> 2005 Suzuki Grand Vitara XL7 4WD  2.7 L</yatra:hasVehicle>
 		<yatra:hasMilage rdf:datatype="&xsd;float">17</yatra:hasMilage>
 		<yatra:hasFuelType rdf:datatype="&xsd;string"> Regular Gasoline</yatra:hasFuelType>
 		<yatra:hasTransmissionType rdf:datatype="&xsd;string"> Manual 5-spd</yatra:hasTransmissionType>
-		<yatra:hasImage rdf:datatype="&xsd;integer"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_XL7.jpg" alt="2005 Suzuki Grand Vitara XL7 4WD" /></yatra:hasImage>
+		<yatra:hasImage rdf:datatype="&xsd;string"><img class="img-thumbnail img-responsive veh-photo" src="http://www.fueleconomy.gov/feg/photos/2005_Suzuki_XL7.jpg" alt="2005 Suzuki Grand Vitara XL7 4WD" /></yatra:hasImage>
 	</rdf:Description>
 </rdf:RDF>

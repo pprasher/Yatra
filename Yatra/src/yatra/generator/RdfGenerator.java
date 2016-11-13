@@ -50,7 +50,7 @@ public class RdfGenerator {
 			rdfString.append("		<yatra:hasMilage rdf:datatype=\"&xsd;float\">" + row.get(5)  + "</yatra:hasMilage>\n");
 			rdfString.append("		<yatra:hasFuelType rdf:datatype=\"&xsd;string\">" + row.get(3)  + "</yatra:hasFuelType>\n");
 			rdfString.append("		<yatra:hasTransmissionType rdf:datatype=\"&xsd;string\">" + row.get(2)  + "</yatra:hasTransmissionType>\n");
-			rdfString.append("		<yatra:hasImage rdf:datatype=\"&xsd;integer\">" + row.get(4)  + "</yatra:hasImage>\n");
+			rdfString.append("		<yatra:hasImage rdf:datatype=\"&xsd;string\">" + row.get(4)  + "</yatra:hasImage>\n");
 			rdfString.append("	</rdf:Description>\n");
 		}
 		System.out.println("Data appened!");
