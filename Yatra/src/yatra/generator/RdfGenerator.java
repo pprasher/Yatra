@@ -28,12 +28,12 @@ public class RdfGenerator {
 		rdfString.append("	<!ENTITY xsd \"http://www.w3.org/2001/XMLSchema#\">\n");
 		rdfString.append("	<!ENTITY rdfs \"http://www.w3.org/2000/01/rdf-schema#\">\n");
 		rdfString.append("	<!ENTITY rdf \"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n");
-		rdfString.append("	<!ENTITY yatra \"http://www.semanticweb.org/ontologies/2016/12/Yatra\">\n");
+		rdfString.append("	<!ENTITY yatra \"http://www.semanticweb.org/ontologies/2016/12/Yatra#\">\n");
 		rdfString.append("]>\n");
 		rdfString.append("<rdf:RDF\n");
 		rdfString.append("	xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n");
 		rdfString.append("	xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"\n");
-		rdfString.append("	xmlns:yatra=\"http://www.semanticweb.org/ontologies/2016/12/Yatra\">\n");
+		rdfString.append("	xmlns:yatra=\"http://www.semanticweb.org/ontologies/2016/12/Yatra#\">\n");
 		rdfString.append(appendCSVData());
 		rdfString.append("</rdf:RDF>");
 		//System.out.println(rdfString.toString());
@@ -45,7 +45,7 @@ public class RdfGenerator {
 		StringBuilder rdfString = new StringBuilder();
 		for (int i=1; i<csvData.size()-1; i++){
 			ArrayList<String> row = csvData.get(i);
-			rdfString.append("		<rdf:Description rdf:about=\"&yatra:automobile" + i +"\">\n");
+			rdfString.append("		<rdf:Description rdf:about=\"&yatra;automobile" + i +"\">\n");
 			rdfString.append("		<yatra:hasVehicle rdf:datatype=\"&xsd;string\">" + row.get(0)  + "</yatra:hasVehicle>\n");
 			rdfString.append("		<yatra:hasMilage rdf:datatype=\"&xsd;float\">" + row.get(5)  + "</yatra:hasMilage>\n");
 			rdfString.append("		<yatra:hasFuelType rdf:datatype=\"&xsd;string\">" + row.get(3)  + "</yatra:hasFuelType>\n");
